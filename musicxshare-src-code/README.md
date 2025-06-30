@@ -9,4 +9,4 @@ Users can share music / own voice audio clips announcements etc.
 Finally !
 I deployed the website on pythonanywhere.
 
-[Link to my website](http://royg9595.pythonanywhere.com/)
+[Link to my website](https://royg9595.pythonanywhere.com/)
